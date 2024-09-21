@@ -1,0 +1,30 @@
+{
+  "versions": [
+    {
+      "version": "1.0.3alpha",
+      "old": false,
+      "new": [
+        "Map Landscape",
+        "New Store",
+        "New Trailer"
+      ],
+      "fixes": [
+        "Landscape",
+        "Nrm/Rghns Map Fixed"
+      ]
+    },
+    {
+      "version": "1.0.2alpha",
+      "old": true,
+      "new": [
+        "Old Update Shit",
+        "Old Update Shit",
+        "Old Update Shit"
+      ],
+      "fixes": [
+        "Old Update Shit",
+        "Old Update Shit"
+      ]
+    }
+  ]
+}
