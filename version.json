@@ -25,6 +25,19 @@
         "Old Update Shit",
         "Old Update Shit"
       ]
+    },
+        {
+      "version": "STRESSTEST",
+      "old": true,
+      "new": [
+        "Old Update Shit",
+        "Old Update Shit",
+        "Old Update Shit"
+      ],
+      "fixes": [
+        "Old Update Shit",
+        "Old Update Shit"
+      ]
     }
   ]
 }
