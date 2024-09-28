@@ -1,16 +1,15 @@
 {
   "versions": [
     {
-      "version": "1.0.3alpha Fotze",
+      "version": "1.0.3alpha",
       "old": false,
       "new": [
-        "Map Landscape",
-        "New Store",
-        "New Trailer"
+        "Map Update",
+        "New Truck (Mentra Lentro)",
+        "New Truck Physics"
       ],
       "fixes": [
-        "Landscape",
-        "Nrm/Rghns Map Fixed"
+        "Wheels Glitching in Ground"
       ]
     },
     {
